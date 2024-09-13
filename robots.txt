@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://heduhubunu.netlify.app/sitemap.xml
